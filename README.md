@@ -1,6 +1,6 @@
-# Pre-work - *Tip & Total*
+# Pre-work - *Tip n Total*
 
-**Tip & Total** is a tip calculator application for iOS.
+**Tip n Total** is a tip calculator application for iOS.
 
 Submitted by: **Lucy Tran**
 
