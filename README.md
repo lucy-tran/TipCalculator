@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Connect the `calculateTip` function to the `billAmount` label and set events to be sent when "editing changed" so that the tip and total amounts show up even before the user tap on `TipControl`.
+- [x] Connect the `calculateTip` function to the `billAmount` label and set events to be sent when "editing changed" so that the tip and total amounts show up even before the user tap on `TipControl`.
 
 ## Video Walkthrough
 
